@@ -15,12 +15,21 @@ Estudiando para ser **Desarrollador Frontend**. Actualmente formándome en el le
 ![react](https://img.shields.io/static/v1?label=&message=react&color=61dafb&logo=react&logoColor=white&style=for-the-badge)
 
 ## 👌 Proyectos
-<a href='https://github.com/jaamdev/pccomponentes-project' title="Imitación de la web PcComponentes" target='_blank'>
-  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/pccomponentes-project.jpg' alt='Imitación de la web PcComponentes' />
+<a href='https://github.com/jaamdev/prueba-reading-list' title="Lista de lectura" target='_blank'>
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/reading-list-prueba.jpg' alt='Lista de lectura' />
 </a>
-<a href='https://github.com/jaamdev/wiggle-project' title="Imitación de la web Wiggle" target='_blank'>
+<a href='https://github.com/jaamdev/busca-pelis-project' title="Buscador de películas" target='_blank'>
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/busca-pelis-project.jpg' alt='Buscador de películas' />
+</a>
+<a href='https://github.com/jaamdev/dc6-fuel-calculator' title="DC6 Fuel Calculator" target='_blank'>
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/dc6-fuel-calculator-project.jpg' alt='DC6 Fuel Calculator' />
+</a>
+<a href='https://github.com/jaamdev/pchardware-project' title="Imitación de la web PcComponentes" target='_blank'>
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/pchardware-project.jpg' alt='Imitación de la web PcComponentes' />
+</a>
+<a href='https://github.com/jaamdev/bicis-project' title="Imitación de la web Wiggle" target='_blank'>
   <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/bicis-project.jpg' alt='Imitación de la web Wiggle' />
 </a>
-<a href='https://github.com/jaamdev/dental-este-project' title="Imitación de la web Dental Este" target='_blank'>
-  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/dental-project.jpg' alt='Imitación de la web Dental Este' />
+<a href='https://github.com/jaamdev/clinica-dental-project' title="Imitación de la web Dental Este" target='_blank'>
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/clinica-dental-project.jpg' alt='Imitación de la web Dental Este' />
 </a>
