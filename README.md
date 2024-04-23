@@ -18,6 +18,9 @@ Estudiando para ser **Desarrollador Frontend**. Actualmente formándome en el le
 <a href='https://github.com/jaamdev/tasks-frontend-project' title="Tareas Project" target='_blank'>
   <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/tasks-project.jpg' alt='Tareas project' />
 </a>
+<a href='https://github.com/jaamdev/prueba-bazar-universal-frontend' title="Bazar universal" target='_blank'>
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/prueba-bazar-universal-frontend/main/view1.jpg' alt='Bazar universal' />
+</a>
 <a href='https://github.com/jaamdev/prueba-reading-list' title="Lista de lectura" target='_blank'>
   <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/reading-list-prueba.jpg' alt='Lista de lectura' />
 </a>
