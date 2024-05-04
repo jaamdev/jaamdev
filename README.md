@@ -16,26 +16,26 @@ Estudiando para ser **Desarrollador Frontend**. Actualmente formándome en el le
 
 ## 👌 Proyectos
 <a href='https://github.com/jaamdev/tasks-frontend-project' title="Tareas Project" target='_blank'>
-  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/tasks-project.jpg' alt='Tareas project' />
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/tasks-project.jpg' alt='Tareas project' />
 </a>
 <a href='https://github.com/jaamdev/prueba-bazar-universal-frontend' title="Bazar universal" target='_blank'>
-  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/prueba-bazar-universal-frontend/main/view1.jpg' alt='Bazar universal' />
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/bazar-universal-prueba.jpg' alt='Bazar universal' />
 </a>
 <a href='https://github.com/jaamdev/prueba-reading-list' title="Lista de lectura" target='_blank'>
-  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/reading-list-prueba.jpg' alt='Lista de lectura' />
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/reading-list-prueba.jpg' alt='Lista de lectura' />
 </a>
 <a href='https://github.com/jaamdev/busca-pelis-project' title="Buscador de películas" target='_blank'>
-  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/busca-pelis-project.jpg' alt='Buscador de películas' />
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/busca-pelis-project.jpg' alt='Buscador de películas' />
 </a>
 <a href='https://github.com/jaamdev/dc6-fuel-calculator' title="DC6 Fuel Calculator" target='_blank'>
-  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/dc6-fuel-calculator-project.jpg' alt='DC6 Fuel Calculator' />
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/dc6-fuel-calculator-project.jpg' alt='DC6 Fuel Calculator' />
 </a>
 <a href='https://github.com/jaamdev/pchardware-project' title="Imitación de la web PcComponentes" target='_blank'>
-  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/pchardware-project.jpg' alt='Imitación de la web PcComponentes' />
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/pchardware-project.jpg' alt='Imitación de la web PcComponentes' />
 </a>
 <a href='https://github.com/jaamdev/bicis-project' title="Imitación de la web Wiggle" target='_blank'>
-  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/bicis-project.jpg' alt='Imitación de la web Wiggle' />
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/bicis-project.jpg' alt='Imitación de la web Wiggle' />
 </a>
 <a href='https://github.com/jaamdev/clinica-dental-project' title="Imitación de la web Dental Este" target='_blank'>
-  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/img/clinica-dental-project.jpg' alt='Imitación de la web Dental Este' />
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/clinica-dental-project.jpg' alt='Imitación de la web Dental Este' />
 </a>
