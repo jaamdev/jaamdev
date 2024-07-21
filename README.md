@@ -1,6 +1,6 @@
 # ¡ Hola soy JaamDev ! 🖐️
 
-[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jaamdev)
 [![github](https://img.shields.io/static/v1?label=&message=github&color=181717&logo=github&logoColor=white&style=for-the-badge)](https://github.com/jaamdev)
 [![portafolio](https://img.shields.io/static/v1?label=&message=portafolio&color=00A50C&style=for-the-badge)](https://jaamdev.github.io/portfolio/)
 
