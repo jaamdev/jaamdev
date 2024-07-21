@@ -15,6 +15,9 @@ Estudiando para ser **Desarrollador Frontend**. Actualmente formándome en el le
 ![react](https://img.shields.io/static/v1?label=&message=react&color=61dafb&logo=react&logoColor=white&style=for-the-badge)
 
 ## 👌 Proyectos
+<a href='https://github.com/jaamdev/housetrav-frontend-project' title="HouseTrav Project" target='_blank'>
+  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/housetrav-project.webp' alt='Housetrav project' />
+</a>
 <a href='https://github.com/jaamdev/tasks-frontend-project' title="Tareas Project" target='_blank'>
   <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/tasks-project.jpg' alt='Tareas project' />
 </a>
