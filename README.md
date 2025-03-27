@@ -10,16 +10,14 @@ Estudiando para ser **Desarrollador Frontend**. Actualmente formándome en el le
 ## 💻 Conocimientos
 ![vscode](https://img.shields.io/static/v1?label=&message=vs%20code&color=007acc&logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![html](https://img.shields.io/static/v1?label=&message=html5&color=e34F26&logo=html5&logoColor=white&style=for-the-badge)
-![css](https://img.shields.io/static/v1?label=&message=css3&color=1572b6&logo=css3&logoColor=white&style=for-the-badge)
+![css](https://img.shields.io/static/v1?label=&message=css&color=663399&logo=css&logoColor=white&style=for-the-badge)
 ![javascript](https://img.shields.io/static/v1?label=&message=javascript&color=f7df1e&logo=javascript&logoColor=white&style=for-the-badge)
+![typescript](https://img.shields.io/static/v1?label=&message=typescript&color=3178C6&logo=typescript&logoColor=white&style=for-the-badge)
 ![react](https://img.shields.io/static/v1?label=&message=react&color=61dafb&logo=react&logoColor=white&style=for-the-badge)
 
 ## 👌 Proyectos
 <a href='https://github.com/jaamdev/housetrav-frontend-project' title="HouseTrav Project" target='_blank'>
   <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/housetrav-project.webp' alt='Housetrav project' />
-</a>
-<a href='https://github.com/jaamdev/tasks-frontend-project' title="Tareas Project" target='_blank'>
-  <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/tasks-project.jpg' alt='Tareas project' />
 </a>
 <a href='https://github.com/jaamdev/prueba-bazar-universal-frontend' title="Bazar universal" target='_blank'>
   <img width='32%'  src='https://raw.githubusercontent.com/jaamdev/portfolio/main/public/bazar-universal-prueba.jpg' alt='Bazar universal' />
